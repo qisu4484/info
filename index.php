@@ -1,1 +1,0 @@
-<?php header('Location: /module2.html'); ?>
