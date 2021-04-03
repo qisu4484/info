@@ -1,4 +1,0 @@
-streamlit==0.77.0
-pandas==0.23.4
-altair==4.1.0
-tornado==6.1
